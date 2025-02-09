@@ -41,7 +41,7 @@
 
 ### 📲 Connect with Me
 
-- 🌐 [Portfolio](https;//www.andreiasemedo.bio)
+- 🌐 [Portfolio](https://www.andreiasemedo.bio)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andreia-semedo-a6410b234/)
 - 📷 [Instagram](https://www.instagram.com/_andrah__/)
 - 📘 [Facebook](https://www.facebook.com/andreia.semedo.986/)
