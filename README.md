@@ -58,9 +58,14 @@
 ![Andreia GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia797&custom_title=Andreia's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent)
 ![Top Stats](https://github-readme-streak-stats.herokuapp.com/?user=andreia797&hide_border=false)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=andreia797&limit=5&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=andreia797&no-frame=true&no-bg=true&margin-w=4)
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 ### 🎭 Fun Fact
