@@ -54,8 +54,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&layout=compact)
-![Andreia GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia797)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Andreia GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia797&custom_title=Andreia's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent)
+![Top Stats](https://github-readme-streak-stats.herokuapp.com/?user=andreia797&hide_border=false)
+
+
+
 
 
 ---
