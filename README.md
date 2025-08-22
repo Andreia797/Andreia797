@@ -82,9 +82,9 @@
 
 ### 🌍 Languages
 
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge-square)
+![Portuguese](https://img.shields.io/badge/Portuguese-Fluent-green?style=for-the-badge-square)
 ![English](https://img.shields.io/badge/English-Intermediate-yellow?style=for-the-badge-square)
-![Kabuverdianu](https://img.shields.io/badge/Cape_Verdean_Creole-Fluent-blue?style=for-the-badge-square)
+![Kabuverdianu](https://img.shields.io/badge/Cape_Verdean_Creole-Native-blue?style=for-the-badge-square)
 
 ### 📲 Connect with Me
 
