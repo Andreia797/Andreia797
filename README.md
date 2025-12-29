@@ -102,9 +102,9 @@
 
 ### 📲 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreia-semedo-a6410b234/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreia-semedo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreia797)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreiasemedo81@gmail.com)
 
 ---
 
@@ -112,9 +112,11 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&layout=compact&langs_count=8&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreia797&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andreia797&theme=transparent"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreia797&show_icons=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreia797)
 
 </div>
 
@@ -122,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=andreia797&limit=5&combine_all_yearly_contributions=true"/>
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=andreia797&limit=5&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -130,7 +132,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=andreia797&no-frame=true&no-bg=true&margin-w=4"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andreia797&no-frame=true&no-bg=true)
 
 </div>
 
@@ -138,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"/>
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 </div>
 
