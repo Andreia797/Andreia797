@@ -112,11 +112,9 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&layout=compact&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
-
-![Andreia GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia797&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&rank_icon=percentile)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreia797&theme=transparent&hide_border=false)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&layout=compact&langs_count=8&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreia797&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andreia797&theme=transparent"/>
 
 </div>
 
@@ -124,7 +122,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=andreia797&limit=5&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=andreia797&limit=5&combine_all_yearly_contributions=true"/>
 
 </div>
 
@@ -132,7 +130,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=andreia797&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=andreia797&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
@@ -140,7 +138,7 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"/>
 
 </div>
 
