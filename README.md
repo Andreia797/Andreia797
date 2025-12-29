@@ -112,11 +112,11 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&hide_border=false&include_all_commits=true&count_private=false&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreia797&layout=compact&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
 
-![Andreia GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia797&custom_title=Andreia's%20GitHub%20statistics&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true)
+![Andreia GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia797&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&rank_icon=percentile)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreia797&hide_border=false&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreia797&theme=transparent&hide_border=false)
 
 </div>
 
@@ -154,7 +154,7 @@
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/andreia797/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=andreia797&color=blueviolet&style=flat-square)
 
 ⭐️ From [Andreia797](https://github.com/andreia797)
 
